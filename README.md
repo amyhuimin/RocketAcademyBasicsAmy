@@ -1,2 +1,2 @@
-# RocketAcademyBasicsAmy
+# RocketAcademyBasics
 Created with CodeSandbox
